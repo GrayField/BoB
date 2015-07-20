@@ -1,0 +1,10 @@
+﻿빌드 시작: 2015-07-20 오후 9:33:35
+     1>2 노드의 "C:\Users\GrayField\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" 프로젝트(Build 대상)입니다.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         ConsoleApplication1.vcxproj -> C:\Users\GrayField\Documents\Visual Studio 2015\Projects\ConsoleApplication1\x64\Debug\HomeWork2_1.exe
+     1>"C:\Users\GrayField\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.69
